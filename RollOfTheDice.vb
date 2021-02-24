@@ -1,4 +1,10 @@
-﻿Public Class RollOfTheDice
+﻿'Kendall Callister
+'RCET0265
+'Spring 2021
+'Roll of the Dice-List Box
+'https://github.com/callkend/RollOfTheDiceListBox.git
+
+Public Class RollOfTheDice
 
     'Adds tool tips
     Private Sub RollOfTheDice_Load(sender As Object, e As EventArgs) Handles MyBase.Load
